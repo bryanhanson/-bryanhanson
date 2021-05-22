@@ -8,4 +8,7 @@ I am a freelance software developer and consultant. My areas of expertise includ
 * Exploratory data analysis.
 * Data management: organization, cleaning.
 * Web page creation and maintenance.
-* Familiar with R, LaTeX, markdown, html, css, git, Github Actions, some JavaScript skills, some Python.
+* Languages: `R`, `html`, JavaScript`, some `Python`.
+* Resources I use regularly: \LaTeX, markdown, css, make, git, Github Actions.
+
+Check out my [blog](https://chemospec.org/) for some recent happenings.
