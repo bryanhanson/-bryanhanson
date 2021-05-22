@@ -12,3 +12,9 @@ I am a freelance software developer and consultant. My areas of expertise includ
 * Resources I use regularly: LaTeX, markdown, css, make, git, Github Actions.
 
 Check out my [blog](https://chemospec.org/) for some recent happenings.
+
+<div align="center">
+
+[![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanhanson)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
+
+</div>
