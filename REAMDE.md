@@ -2,6 +2,7 @@
 
 I am a freelance software developer and consultant. My areas of expertise include:
 
+
 * Development of `R` packages supporting science, especially spectroscopy and chemometrics.  Checkout my repos for examples.
 * Reproducible research: the automated production of research reports.
 * Exploratory data analysis.
