@@ -13,6 +13,8 @@ I am a freelance software developer and consultant. My areas of expertise includ
 
 Check out my [blog](https://chemospec.org/) for some recent happenings.
 
+Here is my [resume](HansonCV.pdf)
+
 <div align="center">
 
 [![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanhanson&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
